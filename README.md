@@ -2,6 +2,8 @@
 
 **`Estudante de Computação`**
 
+Hi, my name is André Vinícius Barros Macambira, I'm 20 year old and I'm from Brasília. Now, I am currently studying Computer Science at UEPB.
+
 Me chamo André Vinícius Barros Macambira, tenho 20 anos e sou natural de Brasília. Atualmente, estou cursando Ciência da Computação na UEPB. 
 
 <p align="left">
