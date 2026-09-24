@@ -1,6 +1,10 @@
 # 👨‍💻 André Vinícius Barros Macambira
  
-### Full Stack Developer | Java • Spring Boot • TypeScript • React
+**`Full Stack Developer | Java • Spring Boot • TypeScript • React`**
+ 
+<br>
+ 
+## 🇺🇸 English
  
 Hi! I'm André Vinícius Barros Macambira, a **Mid-Level Full Stack Developer at Accenture** and a Computer Science student at UEPB.
  
@@ -8,13 +12,17 @@ I work with full stack software development, building backend applications and A
  
 I'm passionate about software development, problem-solving, and continuously improving my skills while building scalable and maintainable applications.
  
----
+<br>
+ 
+## 🇧🇷 Português
  
 Olá! Me chamo André Vinícius Barros Macambira, sou **Desenvolvedor Full Stack Pleno na Accenture** e estudante de Ciência da Computação na UEPB.
  
 Atuo no desenvolvimento de aplicações Full Stack, trabalhando no backend principalmente com **Java e Spring Boot**, além do desenvolvimento de interfaces web modernas utilizando **TypeScript e React**.
  
 Tenho interesse em desenvolvimento de software, resolução de problemas e evolução contínua, buscando sempre escrever código limpo, organizado e de fácil manutenção.
+ 
+<br>
 <p align="left">
     <a href="https://github.com/AndreVinnis?tab=followers">
         <img 
